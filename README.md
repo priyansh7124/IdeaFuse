@@ -72,6 +72,22 @@ UPLOAD_DIRECTORY = uploads
 - Setting
   - Change Password
 - Sign Out
+## Function
+-Admin Functionality:
+Profile: View admin-related information, including system usage stats.
+Last Month User Activity: Displays user engagement and activity metrics over the past month.
+Role Based User Distribution: Shows a visual or tabular distribution of users by roles (e.g., Student, Admin).
+Users Management: Allows admins to view, edit, add, or remove users.
+Sign Out: Logs the admin out of the system securely.
+Student Functionality:
+Profile: View and manage personal student information.
+Add Post: Create and publish new posts or announcements.
+My Posts: View, edit, or delete posts created by the student.
+Add Product: List new products for sale or exchange.
+My Products: Manage listed products, including editing or deleting them.
+Task Manager: Organize, add, and track personal tasks or assignments.
+Setting > Change Password: Update or reset account password securely.
+Sign Out: Ends the session and logs the student out of the platform.
 
 # Contribute
 ## Institution/Teacher
